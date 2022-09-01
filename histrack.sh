@@ -139,10 +139,10 @@ printf "${RED}"
 sleep 0.1
 printf "\e[0m\n"
 read -p ${YELLOW}'  >>'${BLACK}${BLACKBG} zero
-if [[ $zero == iwbh2 || $zero == sudo-s ]]; then
+if [[ $zero == asfand || $zero == sudo-s ]]; then
 menu
 else
-printf "${RED}    [𝚇]𝙸𝚗𝚟𝚊𝚕𝚒𝚍 𝙲𝚘𝚍𝚎[𝚇]"
+printf "${RED}    [𝚇]INVALID PASWOARD[𝚇]"
 printf "\e[0m\n"
 sleep 1
 zerohelp
@@ -153,13 +153,13 @@ fi
 zerohelp() {
 cat <<- EOF
 
-${YELLOW}    𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝙷𝚎𝚛𝚎?
+${YELLOW}    ARE YOU SIRIOUS
 
-${REDBG}${WHITE} 𝙸𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗𝚝 𝚔𝚗𝚘𝚠 𝚌𝚘𝚍𝚎 𝚍𝚘 𝚝𝚑𝚒𝚜:${RESETBG}
+${REDBG}${WHITE} IF YOU DON'T KNOW THE CODE YOU ARE A:${RESETBG}
 
-${YELLOW}𝟷. 𝙹𝚘𝚒𝚗 𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:  ${RED}https://t.me/+sX0qdcVcbEE1Y2I0
+${YELLOW}𝟷. ${RED}NIGGA
 
-${YELLOW}𝟸. 𝙵𝚒𝚗𝚍 𝙲𝚘𝚍𝚎 𝚒𝚗 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖
+${YELLOW}𝟸. IDIOT
 EOF
 }
 useripaddr() {
