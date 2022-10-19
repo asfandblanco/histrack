@@ -25,7 +25,7 @@ clear
                                                             
       ${RED}Version : ${WHITE}1.2
 
-		  ${RED}<${WHITE}-${RED}>${RED} Created HackPekka (${WHITE}htr-tech${RED})
+		  ${RED}<${WHITE}-${RED}>${RED} Creator Asfand (${WHITE}YT_YOSOYASFAND${RED})
 	EOF
 sleep 1
 }
