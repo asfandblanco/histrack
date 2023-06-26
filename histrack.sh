@@ -164,6 +164,8 @@ ${REDBG}${WHITE} IF YOU DON'T KNOW THE CODE YOU ARE A:${RESETBG}
 ${YELLOW}𝟷. ${RED}NIGGA
 
 ${YELLOW}𝟸. IDIOT
+
+${RED}Recommendation: ctr c and start from the beginning 
 EOF
 }
 useripaddr() {
