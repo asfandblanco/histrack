@@ -10,6 +10,7 @@ How to track any IP ADDRESS?
 * `cd histrack`
 
 **RUN >>** `bash histrack.sh`
+password: asfand
 
 ——————————————————————
   Thanks ♡
